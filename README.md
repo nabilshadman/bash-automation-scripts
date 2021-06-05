@@ -1,2 +1,2 @@
 # bash-automation-scripts
-A sample of Bash scripts that automate time-consuming administration tasks on systems
+A sample of Bash scripts to automate time-consuming administration tasks on systems
